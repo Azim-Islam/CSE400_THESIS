@@ -75,6 +75,8 @@ mss = "*"
 pandas = "*"
 seaborn = "*"
 carla = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
 
